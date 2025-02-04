@@ -1,5 +1,5 @@
 # Codealpha-Task-3
-A static social media dashboard displaying all the social analytics at a time.
+A static social media dashboard displaying all the social analytics at a time with a dark and light mode interface.
 
 Dark Mode Interface
 
